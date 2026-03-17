@@ -29,6 +29,7 @@ A simple and interactive counter webpage built using HTML, CSS, and JavaScript. 
 ---
 
 📸 Preview
+
 <img width="572" height="537" alt="image" src="https://github.com/user-attachments/assets/8d982dce-2b03-4b06-b50d-4136db632255" />
 
 ---
